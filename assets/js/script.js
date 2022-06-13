@@ -1,4 +1,4 @@
-var myAPI = "1f92114d61f2306c1c5d6629677461d9";
+var myAPI = "b0eaa0cc184f71799e6eac1dcfc46eee";
 var currentCity = "";
 var lastCity = "";
 
